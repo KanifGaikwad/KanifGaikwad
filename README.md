@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @KanifGaikwad
-- 👀 I’m interested in React, Javascript, Java, Spring, APIs
-- 🌱 I’m currently learning NoSQL, Reactive Programming Stacks
-- 💞️ I’m looking to collaborate on Open sourec project
+- 👀 I’m expert in React, Javascript, Java, SpringBoot, Node.js, APIs
+- 🌱 I’m currently learning Reactive Programming Stacks, Event driven software systems
+- 💞️ I’m looking to collaborate on Open sourec projects
 - 📫 How to reach me kanigaik@gmail.com
 
 <!---
